@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>44.211.161.69/</url>
+	      <url>http://44.211.161.69:8081/repository/pidilite-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
